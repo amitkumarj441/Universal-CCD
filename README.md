@@ -41,3 +41,14 @@ Universal CCD (Continuity of Care Document) is an electronic document exchange s
     
 5. The same process as above, is used when Custodian's (most likely in a Case Management Situation) create additional data for a new CCD file.
 
+## Get involved
+
+If you think you can help in any of the areas listed above (and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're *sure* you can) then please check out our [contributors' guidelines](CONTRIBUTING.md).
+
+Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
+
+## [Contributing guidelines](https://github.com/quanonblocks/Universal-CCD/blob/master/CONTRIBUTING.md)
+
+### Contribute here
+
+Feel free to contribute it, take a look at current issues or start a new issue if you found something buggy or for feature request.
