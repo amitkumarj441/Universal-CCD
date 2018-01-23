@@ -3,10 +3,17 @@
 ## How to become a contributor and submit your own code
 
 We'd love to accept your patches! 
+## Contributing A Patch
+
+   - Submit an issue describing your proposed change to the repo in question.
+   - The repo owners/maintainers/reviewers will respond to your issue promptly.
+   - Fork the desired repo, develop and test your code changes.
+   - Submit a pull request.
+
 
 ### Contributing code
 
-If you have improvements to Parsec, send us your pull requests! For those
+If you have improvements to Universal-CCD, send us your pull requests! For those
 just getting started, Github has a [howto](https://help.github.com/articles/using-pull-requests/).
 
 If you want to contribute but you're not sure where to start, take a look at the issues with the "contributions welcome" 
